@@ -9,7 +9,7 @@ public class Controller
 	/**
 	* Builds the instance of the Controller.
 	*/
-		
+	//Constuctor
 	public Controller()
 	{
 			
