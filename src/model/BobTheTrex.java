@@ -101,8 +101,8 @@ public class BobTheTrex
 	public String toString()
 	{
 		String description = "This is" + name + " he has "
-							 + swordCount +" swords"
-		return decription;
+							 + swordCount + " swords";
+		return description;
 		
 		
 	}
